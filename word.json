@@ -1,0 +1,21 @@
+{
+    "description": "word",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "spacebar",
+                "modifiers": {
+                    "mandatory": ["left_command"],
+                    "optional": ["any"]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "spacebar",
+                    "modifiers": []
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
